@@ -1,0 +1,8 @@
+Creating Tables: 
+0.34828620000000005s
+Upload data from 2019 file:
+2022.274706s
+Upload data from 2020 file:
+2111.8353923000004s
+Execute querry:
+1.9182771999994657s
