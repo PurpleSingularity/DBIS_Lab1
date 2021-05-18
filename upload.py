@@ -221,10 +221,10 @@ def get_result_line_arr(row):
 if __name__ == '__main__':
     conn = connect.connect()
     print(conn)
-    # work_with_DB_table(1,conn)
+    work_with_DB_table(1,conn)
     
-    # recording_from_year_file(2019,conn)
-    # recording_from_year_file(2020,conn)
+    recording_from_year_file(2019,conn)
+    recording_from_year_file(2020,conn)
 
     do_querry(querry,conn)
     connect.disconnect(conn)
